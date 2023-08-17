@@ -12,3 +12,4 @@ hola soy diegp
 
 
 ## Git Commands
+- **git clone**: you can clone your git
